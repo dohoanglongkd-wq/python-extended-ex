@@ -1,0 +1,2 @@
+#  [Exponentiation]
+# Trong Python, phép toán mũ (luỹ thừa) được viết bằng **. Ví dụ: để tính 2^3 bạn viết 2**3, và kết quả là 8. Cơ số và số mũ có thể có kiểu float hoặc int. Trong bài này bạn hãy nhập vào hai số a, b (int) cách nhau một dấu cách, tính và in ra kết quả a mũ b.

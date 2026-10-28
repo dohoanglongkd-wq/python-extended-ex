@@ -1,0 +1,1 @@
+#Cho một khối Rubik có độ dài cạnh là n, hãy trả về số lượng miếng dán riêng lẻ cần thiết để bao phủ toàn bộ khối lập phương. Ví dụ, khối rubic có độ dài cạnh là 1 cần 6 miếng dán riêng lẻ. (Lưu ý: một khối rubic có 6 mặt)

@@ -1,0 +1,1 @@
+  #Viết chương trình nhận vào một số nguyên dương n và trả về "số sao" thứ n.
